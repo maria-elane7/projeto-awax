@@ -1,6 +1,6 @@
 # 🌐 AWAX — Website Institucional Responsivo
 
-![Preview do site AWAX](./midia/awax.png)
+![Preview do site AWAX](./midia/projeto-awax-responsivo.png)
 
 Este projeto é um site institucional fictício de uma agência criativa, desenvolvido com foco na construção de um layout moderno, organizado e totalmente responsivo.
 
