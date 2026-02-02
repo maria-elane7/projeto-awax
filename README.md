@@ -2,10 +2,6 @@
 
 ![Preview do site AWAX](./midia/awax.png)
 
-## link do projeto
-
-🌐 https://maria-elane7.github.io/projeto-awax/
-
 Este projeto é um site institucional fictício de uma agência criativa, desenvolvido com foco na construção de um layout moderno, organizado e totalmente responsivo.
 
 A proposta foi simular um site real de agência digital, trabalhando estruturação de layout, hierarquia visual e responsividade, além de aplicar boas práticas de organização de código utilizando HTML, CSS e Flexbox
@@ -75,9 +71,18 @@ Durante o desenvolvimento deste projeto, foi possível praticar:
 
 ---
 
-## 📌 Observação
 
-Este é um projeto com fins educacionais, criado como parte do processo de aprendizado no curso da **B7Web**.
-s completas utilizando HTML, CSS e Flexbox.  A ideia foi simular um site real de agência digital, com várias áreas comuns no mercado, trabalhando organização de layout, hierarquia visual e responsividade.
+## link do projeto
+
+🌐 https://maria-elane7.github.io/projeto-awax/
+
+---
+
+📌 Observação
+
+Este é um projeto de caráter educacional, desenvolvido com o objetivo de aprimorar habilidades em HTML, CSS e Flexbox, por meio da construção de um site institucional completo e responsivo.
+
+A proposta foi simular um ambiente real de desenvolvimento de uma agência digital, trabalhando organização de layout, hierarquia visual, responsividade e boas práticas na estruturação de código front-end.
+
 
 
