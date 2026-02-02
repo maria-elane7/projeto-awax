@@ -727,16 +727,16 @@ nav{
     position: relative;
 }
 
-.section-primiun-info-titulo {
+.section-primium-info-titulo {
     display: flex;
     align-items: center;
 }
 
-.section-primiun-info-titulo h4 {
+.section-primium-info-titulo h4 {
     font-size: 1.7rem;
 }
 
-.section-primium-info .section-primiun-info-titulo img {
+.section-primium-info .section-primium-info-titulo img {
     position: absolute;
     left: -10%;
     top: 0%;
@@ -893,8 +893,8 @@ nav{
 }
 
 form #name,
-#email,
-#subject {
+form #email,
+form #subject {
     font-size: 1.1rem;
 }
 
@@ -926,7 +926,7 @@ form #name,
 }
 
 .section-map-area-info {
-    width: 50%;
+    width:50%;
     background-color: #FFF;
     color: #000;
     padding: 30px;
@@ -1120,7 +1120,9 @@ footer {
 
     .section-primium .section-primius {
         flex-direction: column;
-        margin-left: 30px; 
+        margin-left: 30px;
+        margin-right:30px; 
+
     }
 
     .section-Facts{
@@ -1302,7 +1304,7 @@ footer {
         margin-right:50px;
     }
 
-    .section-primiun-info-titulo h4 {
+    .section-primium-info-titulo h4 {
         margin-left:10px;
     }
 
